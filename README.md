@@ -1,4 +1,4 @@
-- 👋 Hi, my name is Kirill and I am a novice c# developer
+- 👋 Hi, my name is Kirill and I am a novice php developer
 
 
 <!---
